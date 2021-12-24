@@ -14,6 +14,7 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 public class Commands extends ListenerAdapter {
 	public void onMessageReceived(MessageReceivedEvent event) {
 		String[] args = event.getMessage().getContentRaw().split("\\s+");
+		//TODO make this into a case switch for more efficient execution
 		if (args[0].equalsIgnoreCase(Boba.prefix + "test")) {
 			MessageChannel channel = event.getChannel();
 			channel.sendTyping().queue();
@@ -48,6 +49,8 @@ public class Commands extends ListenerAdapter {
 				dadMessage = "";
 			}
 		}
+		
+		//TODO make randomboba into one cohesive block, look cleaner with embed, and make it customizeable with restaurants
 		else if ((args[0].equalsIgnoreCase(Boba.prefix + "randomboba") || args[0].equalsIgnoreCase(Boba.prefix + "rb") || args[0].equalsIgnoreCase(Boba.prefix + "bobaorder")) && args.length < 2) {
 			MessageChannel channel = event.getChannel();
 			channel.sendTyping().queue();
