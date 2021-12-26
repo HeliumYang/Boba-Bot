@@ -92,6 +92,7 @@ public class RandomBobaGenerator {
 						EmbedBuilder bobaOrder = new EmbedBuilder();
 						bobaOrder.setTitle(":bubble_tea: Let's go with a...");
 						bobaOrder.setDescription(randomBoba + ".");
+						bobaOrder.setFooter("Random boba generation brought to you by Boba Bot", "https://cdn.discordapp.com/avatars/923736863443918878/8672ec3e9cebe15243d00c29101714e3.webp?size=300");
 						if (orderingPlace.equals("")) {
 							channel.sendMessage("BEEP BOOP. Generating random boba order...").setEmbeds(bobaOrder.build()).queue();
 						}
