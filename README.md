@@ -1,2 +1,2 @@
 # Boba-Bot
-A multi-utility Discord bot.
+A multi-utility Discord bot created using Java Discord API.
