@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 import javax.security.auth.login.LoginException;
 
+import commands.Commands;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
@@ -25,7 +26,6 @@ public class Boba {
 			jda.setActivity(Activity.watching("intensely"));
 			jda.setStatus(OnlineStatus.ONLINE);
 			jda.addEventListeners(new Commands());
-			jda.addEventListeners(new AdminCommands());
 			jda.build();
 			}
 		catch (FileNotFoundException e) {
