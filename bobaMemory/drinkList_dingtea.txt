@@ -1,0 +1,90 @@
+Top Jin Xuan Tea
+Assam Black Tea
+Jasmine Green Tea
+Oolong Tea
+Peach Green Tea
+Peach Black Tea
+Passion Fruit Green Tea
+Passion Fruit Black Tea
+Lychee Green Tea
+Lychee Black Tea
+Mango Green Tea
+Mango Black Tea
+Honey Green Tea
+Honey Black Tea
+Guava Green Tea
+Blueberry Green Tea
+Winter Melon Tea
+Winter Melon Green Tea
+Apple Green Tea
+Kumquat Tea
+Kumquat Lemon Ice Tea
+Top Fruit Tea
+Tiramisu Foam Green Tea
+Strawberry Slush
+Mango Slush
+Peach Slush
+Taro Slush
+Kiwi Slush
+Passion Fruit Slush
+Lychee Slush
+Matcha Slush
+Rainbow Slush
+Top Jin Xuan Milk Tea
+Signature Milk Tea
+Jasmine Green Milk Tea
+Oolong Milk Tea
+Taro Milk Tea
+Thai Milk Tea
+Matcha Milk Tea
+Chocolate Milk Tea
+Guava Green MMilk Tea
+Honey Milk Tea
+Strawberry Milk Tea
+Lychee Milk Tea
+Winter Melon Milk Tea
+Peach Milk Tea
+Mango Milk Tea
+Passion Fruit Milk Tea
+Brown Sugar Milk Tea
+Blueberry Green Milk Tea
+Hazelnut Milk Tea
+Hokkaido Caramel Black Milk Tea
+Hokkaido Toffee Oolong Milk Tea
+Vanilla Milk Tea
+Apple Green Milk Tea
+Taro Mix Burnt Cream Milk Tea
+Dalgona Coffee Milk Tea
+Hokkaido Coffee Latte
+Vietnamese Condensed Milk Coffee
+Brown Sugar Coffee Latte
+Hazelnut Coffee
+Vanilla Coffee
+Aloe Vera Kiwi Juice
+Aloe Vera Honey Juice
+Aloe Vera Passion Fruit Juice
+Aloe Vera Peach Juice
+Alow Vera Lychee Juice
+Aloe Vera Grapefruit Juice
+Kumquat Lemon Ice Juice
+Green Tea Yakult
+Passion Fruit Yakult
+Lychee Yakult
+Mango Yakult
+Peach Yakult
+Strawberry Yakult
+Grapefruit Yakult
+Jin Xuan Latte
+Black Tea Latte
+Jasmine Green Tea Latte
+Oolong Latte
+Thai Tea Latte
+Matcha Latte
+Taro Latte
+Taro Jasmine Green Tea
+Monster Boba Latte
+Ginger Tea
+Longan Tea
+Ginger Longan Tea
+Ginger Milk Tea
+Longan Milk Tea
