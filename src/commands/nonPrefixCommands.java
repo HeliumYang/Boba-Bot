@@ -1,6 +1,6 @@
 package commands;
 
-public class nonPrefixCommands {
+public class NonPrefixCommands {
 	public static void noPrefix() {
 		
 	}

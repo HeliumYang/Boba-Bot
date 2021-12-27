@@ -119,7 +119,7 @@ public class RandomBobaGenerator {
 			orderingPlace = "";
 		}
 		catch (FileNotFoundException e) {
-			if (args.length < 3) {
+			if (args.length < 2) {
 				channel.sendTyping().queue();
 				channel.sendMessage("I'm sorry, but it seems like I don't have a menu from " + args[2] +".").queue();
 				e.printStackTrace();
